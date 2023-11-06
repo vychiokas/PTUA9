@@ -1,0 +1,10 @@
+30/10/2023 20:54:01 - root - ERROR - Exception Occurred when supplied a = 10, b = 0
+Traceback (most recent call last):
+  File "C:\Users\Vytautas\repositories\something_else\PTUA9\lectures\lesson14\main.py", line 12, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
+30/10/2023 20:54:21 - root - ERROR - Exception Occurred when supplied a = 10, b = 0
+Traceback (most recent call last):
+  File "C:\Users\Vytautas\repositories\something_else\PTUA9\lectures\lesson14\main.py", line 12, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
