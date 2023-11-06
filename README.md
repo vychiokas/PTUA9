@@ -3,3 +3,6 @@
 This is a code that is being written during CodeAcademy lessons.
 
 This is another line.
+
+
+# this is some new text
