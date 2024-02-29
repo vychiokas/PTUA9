@@ -1,2 +1,2 @@
-MAIL_USERNAME = "vychiokasbot@gmail.com"
-MAIL_PASSWORD = "btzw yymj qksb eawh"
+MAIL_USERNAME = "your_email"
+MAIL_PASSWORD = "your_password"
